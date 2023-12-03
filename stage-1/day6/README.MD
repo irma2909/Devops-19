@@ -79,3 +79,18 @@ Cara melakukan reverse proxy sebagai berikut
 
 20. hasil
 ![alt text](https://github.com/irma2909/Devops-19/blob/master/Tugas%20Day_6/Screenshot%20from%202023-12-02%2022-56-25.png?raw=true)
+
+Load Balancing pada server adalah konsep yang digunakan untuk membagi beban kerja (workload) di antara beberapa server agar tidak ada satu server pun yang terbebani secara berlebihan.
+
+cara melakukan load balance:
+1. melakukan clonning pada vm
+![alt text](https://github.com/irma2909/Devops-19/blob/master/Load%20Balance/Screenshot%20from%202023-12-04%2001-05-43.png?raw=true)
+
+2. meginstall npm
+![alt text](https://github.com/irma2909/Devops-19/blob/master/Load%20Balance/Screenshot%20from%202023-12-04%2001-05-43.png?raw=true)
+
+3, melakukan tes pada aplikasi
+![alt text](https://github.com/irma2909/Devops-19/blob/master/Load%20Balance/Screenshot%20from%202023-12-04%2001-05-52.png?raw=true)
+
+4. aplikasi berhasil di jalankan
+![alt text](https://github.com/irma2909/Devops-19/blob/master/Load%20Balance/Screenshot%20from%202023-12-04%2001-06-35.png?raw=true)
