@@ -61,11 +61,11 @@ Prevention: Mencegah akses yang tidak diinginkan masuk ke sistem.
 
 ufw (Uncomplicated Firewall) pada Ubuntu:
 
-1 install ufw dan aktifkan ufw 
+1. install ufw dan aktifkan ufw 
 ![alt text](https://github.com/irma2909/Devops-19/blob/master/Tugas%20Day_4/Screenshot%20from%202023-12-02%2011-32-59.png?raw=true)
 ![alt text](https://github.com/irma2909/Devops-19/blob/master/Tugas%20Day_4/Screenshot%20from%202023-12-02%2011-35-52.png?raw=true)
 
-2 sudo ufw deny untuk mengijinkan semua akses yang masuk 
+2. sudo ufw deny untuk mengijinkan semua akses yang masuk 
 ![alt text](https://github.com/irma2909/Devops-19/blob/master/Tugas%20Day_4/Screenshot%20from%202023-12-02%2011-42-59.png?raw=true)
 
 3. Melarang semua akses untuk keluar
