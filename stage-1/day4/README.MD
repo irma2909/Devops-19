@@ -74,7 +74,7 @@ ufw (Uncomplicated Firewall) pada Ubuntu:
 4. Mengijinkan akses untuk keluar
 ![alt text](https://github.com/irma2909/Devops-19/blob/master/Tugas%20Day_4/Screenshot%20from%202023-12-02%2011-46-25.png?raw=true)
 
-Tes ssh ufw allow 22
+5. Tes ssh ufw allow 22
 ![alt text](https://github.com/irma2909/Devops-19/blob/master/Tugas%20Day_4/Screenshot%20from%202023-12-02%2012-03-10.png?raw=true)
 
 6. verbose cek status
